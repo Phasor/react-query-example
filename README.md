@@ -2,4 +2,4 @@
 
 Simple example of `useQuery` and `useMutation`.
 
-<App> component is a simple example, <App2> is more complex.
+`<App>` component is a simple example, `<App2>` is more complex.
